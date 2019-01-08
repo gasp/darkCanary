@@ -1,3 +1,6 @@
+
+<img src="darkmode.png" alt="Dark mode" />
+
 # darkCanary wrapper
 
 how to build: `bash build.sh`
